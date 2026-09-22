@@ -1,12 +1,12 @@
 # OpenWild Agent
 
-**野外智能巢穴监测系统 — 基于 ESP32-S3 + ESP-Claw 的开源野生动物 AI 监护解决方案**
+**低成本野外智能体平台 — 基于 ESP32-S3 + ESP-Claw 的开源野生动物 AI 监护解决方案**
 
 [![ESP-IDF](https://img.shields.io/badge/ESP--IDF-5.3+-green.svg)](https://github.com/espressif/esp-idf)
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](./LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-ESP32--S3-orange.svg)](https://github.com/espressif/esp-idf)
 
-> 本项目参加**成都市青少年科技创新大赛**，开源地址：[github.com/liluwei-star/OpenWild-Agent](https://github.com/liluwei-star/OpenWild-Agent)
+> 开源地址：[github.com/liluwei-star/OpenWild-Agent](https://github.com/liluwei-star/OpenWild-Agent)
 
 ## 目录
 
